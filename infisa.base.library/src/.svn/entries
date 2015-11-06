@@ -1,0 +1,34 @@
+10
+
+dir
+8742
+svn://192.168.1.199/web/toy/tangpeng/library/library/src
+svn://192.168.1.199/web
+
+
+
+2015-04-21T06:30:08.251087Z
+2086
+libo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8a147129-e8b2-42a8-a72a-5122a78759a7
+
+main
+dir
+
+test
+dir
+
